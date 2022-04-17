@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        We are legend!
       </header>
     </div>
   );
